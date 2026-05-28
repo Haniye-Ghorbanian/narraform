@@ -1,4 +1,4 @@
-# ai-smart-forms
+# narraform
 
 > Fill any React form with natural language. Schema-driven. Streaming. Zero configuration.
 
