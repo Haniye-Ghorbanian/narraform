@@ -1,7 +1,7 @@
 "use client";
 
 import { experimental_useObject as useObject } from "@ai-sdk/react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { z } from "zod";
 
 const orderSchema = z.object({
